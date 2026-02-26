@@ -49,3 +49,16 @@ Com isso, foi possível compreender melhor a relação entre organização finan
 
 ## Conclusão
 O projeto mostrou que a educação financeira começa pela organização pessoal, passa pela compreensão dos juros compostos e se fortalece com escolhas mais conscientes de investimento. O uso do NotebookLM ajudou a transformar várias fontes em um material estruturado, útil e fácil de revisar.
+
+
+Capturas de tela
+## Capturas de tela
+
+### Fontes e organização do notebook
+![Fontes e organização do notebook](Captura de tela_26-2-2026_113932_notebooklm.google.com.jpeg)
+
+### Estrutura e desenvolvimento do conteúdo
+![Estrutura e desenvolvimento do conteúdo](Captura de tela_26-2-2026_114041_notebooklm.google.com.jpeg)
+
+### Notebook compartilhado e pronto para entrega
+![Notebook compartilhado e pronto para entrega](Captura de tela_26-2-2026_114128_notebooklm.google.com.jpeg)

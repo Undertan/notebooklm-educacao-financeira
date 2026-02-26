@@ -52,13 +52,8 @@ O projeto mostrou que a educação financeira começa pela organização pessoal
 
 
 Capturas de tela
-## Capturas de tela
+![Fontes e organização do notebook](Captura%20de%20tela_26-2-2026_113932_notebooklm.google.com.jpeg)
 
-### Fontes e organização do notebook
-![Fontes e organização do notebook](Captura de tela_26-2-2026_113932_notebooklm.google.com.jpeg)
+![Estrutura e desenvolvimento do conteúdo](Captura%20de%20tela_26-2-2026_114041_notebooklm.google.com.jpeg)
 
-### Estrutura e desenvolvimento do conteúdo
-![Estrutura e desenvolvimento do conteúdo](Captura de tela_26-2-2026_114041_notebooklm.google.com.jpeg)
-
-### Notebook compartilhado e pronto para entrega
-![Notebook compartilhado e pronto para entrega](Captura de tela_26-2-2026_114128_notebooklm.google.com.jpeg)
+![Notebook compartilhado e pronto para entrega](Captura%20de%20tela_26-2-2026_114128_notebooklm.google.com.jpeg)
